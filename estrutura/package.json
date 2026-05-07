@@ -1,0 +1,30 @@
+{
+  "name": "sistema-maranhao-transportes",
+  "version": "1.0.0",
+  "description": "Sistema de gestão logística de transporte escolar para Camaçari",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.10",
+    "expo": "~49.0.0",
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@react-navigation/stack": "^6.3.19",
+    "react-native-screens": "~3.22.0",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-gesture-handler": "~2.12.0",
+    "axios": "^1.5.0",
+    "@react-native-async-storage/async-storage": "1.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "jest": "^29.6.0"
+  }
+}

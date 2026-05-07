@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Sistema Maranhão Transportes",
+    "slug": "sistema-maranhao-transportes",
+    "version": "1.0.0",
+    "type": "module",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.maranhao.transportes"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-font"
+      ]
+    ]
+  }
+}
